@@ -1,6 +1,6 @@
 # OmegaLoader
 CS:GO Desync Cheat Loader ( Auto updates )
-Monolith,Pandora,Aimware,Rawetrip [+ luas and cfgs]
+
 
 
 
