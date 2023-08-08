@@ -1,12 +1,6 @@
 # OmegaLoader
-CS:GO Desync Cheat Loader ( Auto updates )
-
-
-
-
--Cheat csgo loader
--Working 07.04.2023
--Made by vega#4148 more help in dm
+Roblox executor keyless working 08.08.2023
+Owner : .zzzzzzzzzzzzzzzzzzzzz
 
 
 github: https://github.com/Namelessaknoname/OmegaLoader
